@@ -2,6 +2,6 @@ Template Laporan Akhir MBKM Prodi TRE DTEDI SV UGM Dikembangkan oleh Dr. Fahmiza
 
 Perangkat lunak yang digunakan untuk mengolah LaTEX pada template ini adalah
 
-TeXstudio
-MiKTex
-Overleaf (LaTEX editor berbasis daring)
+TeXstudio,
+MiKTex,
+Overleaf (LaTEX editor berbasis daring).
